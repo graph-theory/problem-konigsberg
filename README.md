@@ -1,6 +1,6 @@
-# Problem Sheet: MU problem
+# Problem Sheet: Bridges of Konigsberg problem
 
-This is a problem sheet for the module **Theory of Algorithms**.
+This is a problem sheet for the module **Graph Theory**.
 The module is taught to fourth year undergraduate students at [GMIT](http://www.gmit.ie).
 The lecturer is [Ian McLoughlin](https://ianmcloughlin.github.io).
 
